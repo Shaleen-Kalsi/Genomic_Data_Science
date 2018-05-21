@@ -1,4 +1,4 @@
-"""Find out what species the DNA sequence came from: Answe is the one with the lowest E value"""
+"""Find out what species the DNA sequence came from: Answer is the one with the lowest E value"""
 from Bio.Blast import NCBIWWW
 from Bio.Blast import NCBIXML
 fasta_string = 'TGGGCCTCATATTTATCCTATATACCATGTTCGTATGGTGGCGCGATGTTCTACGTGAATCCACGTTCGAAGGACATCATACCAAAGTCGTACAATTAGGACCTCGATATGGTTTTATTCTGTTTATCGTATCGGAGGTTATGTTCTTTTTTGCTCTTTTTCGGGCTTCTTCTCATTCTTCTTTGGCACCTACGGTAGAG'
